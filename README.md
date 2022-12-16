@@ -36,4 +36,9 @@ Screenshot[5]
 
 <img width="1370" alt="Screenshot 2022-12-16 at 1 45 51 PM" src="https://user-images.githubusercontent.com/16884982/208053915-a3c6de57-6340-461a-81f5-b2d2afad5438.png">
 
+- After followed all the above, you need to add the bundle/apk in the `Publish your app on Google Play` section. It look like the below screenshots
+
+Screenshots[6]
+
+<img width="1000" alt="Screenshot 2022-12-16 at 2 54 38 PM" src="https://user-images.githubusercontent.com/16884982/208066375-c0137724-1e49-417a-b9f1-1ce9f9dd6248.png">
 
