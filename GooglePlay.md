@@ -1,4 +1,3 @@
-# Documents
 ## Uploading app on Google Play-Store 
 
 ### Below are the steps for published the Android Apps in Google-Play
