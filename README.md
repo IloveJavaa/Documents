@@ -18,3 +18,17 @@ Screensshot[2]
 
 - Fill the form and click on the create app.
 - After click on create app, you will be redirected to the dashboard. On dashboard go to the `Set up your app` and click on the view task.
+- View task look like the below screenshot, you need to fill the task one by one.
+
+Screenshot[3]
+
+<img width="1000" alt="Screenshot 2022-12-15 at 5 23 12 PM" src="https://user-images.githubusercontent.com/16884982/208040429-f3ea3c0a-ddd9-4dbb-b7ae-ef3883d269f8.png">
+
+- After that, come to the `Store presence` and fill the form as per your application 
+
+Screenshot[4]
+
+<img width="1000" alt="Screenshot 2022-12-16 at 1 22 24 PM" src="https://user-images.githubusercontent.com/16884982/208050243-76b6a4ad-fbdf-4264-9221-9fd03e6d774d.png">
+
+
+
