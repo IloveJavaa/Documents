@@ -27,15 +27,13 @@ Screenshot[4]
 
 <img width="1000" alt="Screenshot 2022-12-16 at 5 48 04 PM" src="https://user-images.githubusercontent.com/16884982/208096574-a9793a44-ce73-45a1-bf87-141570f9e47f.png">
 
-* Choose the option according to the your Distribution need. There is four option in this window
+* Choose the option according to the your Distribution need. There is an four option in this window
     * App Store Coonect - Distribute on Testflight and the AppStore
     * Ad Hoc - Install on designated devices.
     * Enterprise - Distribute to your organisation
     * Development - Distribute to members of your team. 
 
+* Here we are selecting the first option i.e App store connect and after that select the upload
 
-* [Add Trackier SDK to your app](#qs-add-trackier-sdk)
-    * [Add the SDK using gradle](#qs-add-sdk-gradle)
-
-
+<img width="971" alt="Screenshot 2022-12-16 at 6 33 51 PM" src="https://user-images.githubusercontent.com/16884982/208104495-93cec3dc-6691-47b3-bb3c-d814f9686d02.png">
 
