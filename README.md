@@ -42,3 +42,6 @@ Screenshots[6]
 
 <img width="1000" alt="Screenshot 2022-12-16 at 2 54 38 PM" src="https://user-images.githubusercontent.com/16884982/208066375-c0137724-1e49-417a-b9f1-1ce9f9dd6248.png">
 
+- In `Publish your app on Google Play` section, you need to add your signed apk/bundle and review the same and at last roll out the release.
+
+
