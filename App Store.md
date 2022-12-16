@@ -48,3 +48,7 @@ Screenshot[6]
 
 Screenshot[6]
 <img width="1000" alt="Screenshot 2022-12-16 at 6 54 28 PM" src="https://user-images.githubusercontent.com/16884982/208108018-9ca2f736-9cf2-4862-8433-8e96715b1fda.png">
+
+All above steps are followed for Xcode, After that login into appstore connect and select the app which you are uploaded
+
+
