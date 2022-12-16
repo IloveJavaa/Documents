@@ -24,11 +24,15 @@ Screenshot[3]
 
 <img width="1000" alt="Screenshot 2022-12-15 at 5 23 12 PM" src="https://user-images.githubusercontent.com/16884982/208040429-f3ea3c0a-ddd9-4dbb-b7ae-ef3883d269f8.png">
 
-- After that, come to the `Store presence` and fill the form as per your application 
+- After that, come to the `Main Store Listing` under the Store presence and fill the form as per your application 
 
 Screenshot[4]
 
 <img width="1000" alt="Screenshot 2022-12-16 at 1 22 24 PM" src="https://user-images.githubusercontent.com/16884982/208050243-76b6a4ad-fbdf-4264-9221-9fd03e6d774d.png">
 
+- After filling the `Main Store Listing`, you need to fill up the `Store Setting`, it should look like the below screenshot.
 
+Screenshot[5]
+
+<img width="1370" alt="Screenshot 2022-12-16 at 1 45 51 PM" src="https://user-images.githubusercontent.com/16884982/208053915-a3c6de57-6340-461a-81f5-b2d2afad5438.png">
 
