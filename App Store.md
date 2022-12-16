@@ -35,5 +35,16 @@ Screenshot[4]
 
 * Here we are selecting the first option i.e App store connect and after that select the upload
 
-<img width="971" alt="Screenshot 2022-12-16 at 6 33 51 PM" src="https://user-images.githubusercontent.com/16884982/208104495-93cec3dc-6691-47b3-bb3c-d814f9686d02.png">
+Screenshot[5]
+<img width="1000" alt="Screenshot 2022-12-16 at 6 33 51 PM" src="https://user-images.githubusercontent.com/16884982/208104495-93cec3dc-6691-47b3-bb3c-d814f9686d02.png">
 
+* After clicking on next, you will get the window like below screenshot and then click on the next to go on the re-sign window
+
+Screenshot[6]
+
+<img width="1000" alt="Screenshot 2022-12-16 at 6 50 04 PM" src="https://user-images.githubusercontent.com/16884982/208107234-a75a16f6-c4f0-4aa3-90e8-df11078cf3be.png">
+
+* After that click on the next for upload the app to the appstore. This upload window look like the below Screenshot.
+
+Screenshot[6]
+<img width="1000" alt="Screenshot 2022-12-16 at 6 54 28 PM" src="https://user-images.githubusercontent.com/16884982/208108018-9ca2f736-9cf2-4862-8433-8e96715b1fda.png">
